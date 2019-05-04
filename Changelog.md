@@ -1,12 +1,32 @@
 # Changelog
 
+# v0.01.2 (Pre-Alpha) - May 3rd, 2019:
+## Features
+### Animation
+- Added custom animation system. Fresh animations coming soon!
+### Swimming
+- Added a new swimming feature.
+### Quests
+- Added a fresh new quest!
+
+## Bug Fixes
+### Chat
+- Not really a bug, but now preventing inventory toggle/interaction while chatting.
+
+## Removed
+### Quests
+- Removed the "Rockin' Rickety Roberts" quest.
+
+-----------------------------------------------------
+
 # v0.01.2 (Pre-Alpha) - April 30th, 2019:
 ## Features
 ### Core
 - Added support for custom characters.
-- Added custom animation system.
 ### Character
-- New character design and animations.
+- New character design. Animations coming soon.
+### NPCs
+- Minor improvements to NPCs.
 
 -----------------------------------------------------
 
@@ -19,6 +39,7 @@
 
 ## Bug Fixes
 ### Core
+- Minor bug fixes
 ### Sailing
 - Fixed a bug which allowed for two drivers to be on a ship at once.
 - Fixed a bug which caused ship driver to lose control seemingly randomly.
